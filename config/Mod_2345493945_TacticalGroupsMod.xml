@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TacticalGroups.TacticalGroupsSettings">
+		<DisplayWeapons>True</DisplayWeapons>
+		<HideGroups>True</HideGroups>
+		<HideCreateGroup>True</HideCreateGroup>
+		<WeaponPlacementOffset>-4</WeaponPlacementOffset>
+		<MarginTop>137.640442</MarginTop>
+		<ColonistBarPositionX>-400</ColonistBarPositionX>
+		<ColonistBarSpacingX>1</ColonistBarSpacingX>
+		<ColonistBarSpacingY>127.151688</ColonistBarSpacingY>
+		<PawnBoxHeight>46.3539314</PawnBoxHeight>
+		<PawnBoxWidth>82.8932571</PawnBoxWidth>
+		<PawnCameraOffsetZ>0.235955</PawnCameraOffsetZ>
+		<PawnScale>1.33876407</PawnScale>
+		<WeaponShowScale>0.953370869</WeaponShowScale>
+		<ColonistBarWidthOffset>-80.8988037</ColonistBarWidthOffset>
+		<AllGroupPresetsSaveable IsNull="True" />
+	</ModSettings>
+</SettingsBlock>

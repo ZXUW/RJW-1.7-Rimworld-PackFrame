@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MusicManager.Settings">
+		<position>(151, 36)</position>
+		<SongIntervalPeace>19.5283012~28.4433975</SongIntervalPeace>
+		<blockedSongs />
+		<lovedSongs />
+	</ModSettings>
+</SettingsBlock>

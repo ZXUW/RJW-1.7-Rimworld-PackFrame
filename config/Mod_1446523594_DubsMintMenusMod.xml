@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DubsMintMenus.Settings">
+		<AutoCloseArchitect>False</AutoCloseArchitect>
+		<Pinning>False</Pinning>
+		<ReplacePlantMenu>False</ReplacePlantMenu>
+		<BoxSizeX>90</BoxSizeX>
+		<BoxSizeY>75</BoxSizeY>
+		<infocardW>350</infocardW>
+		<MaxHeight>650</MaxHeight>
+		<InfoWidth>358</InfoWidth>
+		<billTabH>300</billTabH>
+		<bBoxSizeY>55</bBoxSizeY>
+		<listWidth>445</listWidth>
+		<ResearchListWidth>350</ResearchListWidth>
+		<OverrideAssign>False</OverrideAssign>
+		<BuildWheel>Mouse4</BuildWheel>
+		<WheelButtonSize>55</WheelButtonSize>
+		<WheelSlots>
+			<li>RimWorld.Designator_Unforbid</li>
+			<li>RimWorld.Designator_Deconstruct</li>
+			<li>RimWorld.Designator_Cancel</li>
+			<li>FloorPipetteTool.Designator_FloorEyedropper</li>
+			<li IsNull="True" />
+			<li IsNull="True" />
+			<li IsNull="True" />
+			<li IsNull="True" />
+			<li IsNull="True" />
+			<li IsNull="True" />
+			<li IsNull="True" />
+			<li IsNull="True" />
+			<li IsNull="True" />
+			<li IsNull="True" />
+			<li IsNull="True" />
+			<li IsNull="True" />
+			<li IsNull="True" />
+			<li IsNull="True" />
+		</WheelSlots>
+		<WheelGridSlots />
+		<DesignatorBarList />
+		<pinnedArchitectTabs IsNull="True" />
+		<ResourceReadout />
+		<WheelDefs>
+			<li>RimWorld.Designator_Unforbid</li>
+			<li>RimWorld.Designator_Deconstruct</li>
+			<li>RimWorld.Designator_Cancel</li>
+			<li>FloorPipetteTool.Designator_FloorEyedropper</li>
+		</WheelDefs>
+		<FBenchTemplates />
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Rimworld_Animations.RJWAnimationSettings">
+		<RJWAnimations-maleSounds>False</RJWAnimations-maleSounds>
+		<RJWAnimations-femaleSounds>False</RJWAnimations-femaleSounds>
+		<RJWAnimation-heartsOnLovin>True</RJWAnimation-heartsOnLovin>
+		<RJWAnimations-voicesFrequencyTicks>60</RJWAnimations-voicesFrequencyTicks>
+		<RJWAnimations-animationScaledOffsets>
+			<keys />
+			<values />
+		</RJWAnimations-animationScaledOffsets>
+	</ModSettings>
+</SettingsBlock>

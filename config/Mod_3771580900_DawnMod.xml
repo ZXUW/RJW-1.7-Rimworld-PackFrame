@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DawnNewDay.DawnSettings">
+		<Scale>1.5</Scale>
+		<Offset>(297, 247)</Offset>
+		<UpperTextStyle>
+			<FontSize>40</FontSize>
+			<Bold>True</Bold>
+		</UpperTextStyle>
+		<BottomTextStyle>
+			<FontSize>24</FontSize>
+		</BottomTextStyle>
+		<SubtitleTextStyle>
+			<FontSize>12</FontSize>
+			<Italic>True</Italic>
+			<OutlineThickness>0.25</OutlineThickness>
+		</SubtitleTextStyle>
+		<MN_ExcludeOccasionCategory>
+			<keys>
+				<li>Reminder</li>
+			</keys>
+			<values>
+				<li>True</li>
+			</values>
+		</MN_ExcludeOccasionCategory>
+		<MN_Reminder>
+			<AddText>True</AddText>
+			<TextFormat>&lt;color={MN_REMINDER_SEVERITY_COLOR}&gt;&lt;size={MN_REMINDER_FONTSIZE / 1.25}&gt;{MN_REMINDER_TITLE}&lt;/size&gt;&lt;/color&gt;{ENDLINE}&lt;color={MN_REMINDER_REMAINING_COLOR}&gt;-{MN_REMINDER_REMAINING} Remain-&lt;/color&gt;</TextFormat>
+			<TextStyle>
+				<FontSize>18</FontSize>
+				<Bold>True</Bold>
+				<OutlineThickness>0.25</OutlineThickness>
+			</TextStyle>
+		</MN_Reminder>
+		<MN_Occasion>
+			<AddText>True</AddText>
+			<TextFormat>&lt;size={MN_OCCASION_FONTSIZE / 1.25}&gt;[{MN_OCCASION_CATEGORY}] {MN_OCCASION_LABEL}&lt;/size&gt;{ENDLINE}&lt;color={MN_OCCASION_REMAINING_COLOR}&gt;-{MN_OCCASION_REMAINING} Remain-&lt;/color&gt;</TextFormat>
+			<TextStyle>
+				<FontSize>16</FontSize>
+				<Bold>True</Bold>
+				<OutlineThickness>0.25</OutlineThickness>
+			</TextStyle>
+		</MN_Occasion>
+	</ModSettings>
+</SettingsBlock>

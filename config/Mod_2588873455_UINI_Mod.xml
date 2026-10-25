@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="UINotIncluded.Settings">
+		<togglersOnTop>False</togglersOnTop>
+		<settingsChecked>True</settingsChecked>
+		<vanillaReadout>True</vanillaReadout>
+		<vanillaControlSpeed>True</vanillaControlSpeed>
+		<vanillaDate>True</vanillaDate>
+		<vanillaRealtime>True</vanillaRealtime>
+		<vanillaWeather>True</vanillaWeather>
+		<vanillaTemperature>True</vanillaTemperature>
+		<useDesignatorBar>False</useDesignatorBar>
+		<initializedDefaultBar>True</initializedDefaultBar>
+		<StyleType>UINotIncluded.BarStyle_VanillaBlue</StyleType>
+		<hiddenDesignations>
+			<li>KeyzAllowUtilities.Designator_HarvestAllWood</li>
+			<li>KeyzAllowUtilities.Designator_HarvestAll</li>
+			<li>KeyzAllowUtilities.Designator_HarvestGrownWood</li>
+			<li>KeyzAllowUtilities.Designator_HarvestGrown</li>
+			<li>KeyzAllowUtilities.Designator_CutBlighted</li>
+			<li>KeyzAllowUtilities.Designator_CutGrown</li>
+			<li>KeyzAllowUtilities.Designator_StripMine</li>
+			<li>KeyzAllowUtilities.Designator_FinishOff</li>
+			<li>KeyzAllowUtilities.Designator_SelectSimilar</li>
+			<li>KeyzAllowUtilities.Designator_HaulUrgently</li>
+			<li>RimWorld.Designator_PaintBuilding</li>
+			<li>RimWorld.Designator_PaintFloor</li>
+			<li>RimWorld.Designator_RemovePaint</li>
+			<li>RimWorld.Designator_Plan_Add</li>
+			<li>RimWorld.Designator_Plan_Remove</li>
+			<li>AncientMarket_Libraray.Designator_Open</li>
+			<li>Nivarian.Designator_RetrievalDrone</li>
+			<li>Nivarian_Race.Code.Designators.Designator_EnableWirelessPower</li>
+			<li>Nivarian_Race.Code.Designators.Designator_DisableWirelessPower</li>
+			<li>KCSG.Designator_ExportToXml</li>
+			<li>KCSG.Designator_ExportToXmlFromArea</li>
+		</hiddenDesignations>
+		<leftDesignations>
+			<li>RimWorld.Designator_Forbid</li>
+			<li>RimWorld.Designator_Uninstall</li>
+			<li>RimWorld.Designator_Unforbid</li>
+			<li>RimWorld.Designator_Claim</li>
+		</leftDesignations>
+		<mainDesignations>
+			<li>RimWorld.Designator_Mine</li>
+			<li>RimWorld.Designator_PlantsHarvestWood</li>
+			<li>RimWorld.Designator_PlantsHarvest</li>
+			<li>RimWorld.Designator_Cancel</li>
+			<li>RimWorld.Designator_Deconstruct</li>
+		</mainDesignations>
+		<rightDesignations>
+			<li>RimWorld.Designator_Haul</li>
+			<li>RimWorld.Designator_SmoothSurface</li>
+			<li>RimWorld.Designator_Slaughter</li>
+			<li>RimWorld.Designator_PlantsCut</li>
+			<li>RimWorld.Designator_Hunt</li>
+			<li>RimWorld.Designator_Tame</li>
+		</rightDesignations>
+		<top />
+		<bottom>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>MintMenus</defName>
+				<label>新潮建造界面</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>MintResearch</defName>
+				<label>新潮研究界面</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>MintDesignators</defName>
+				<label>指令转盘</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Architect</defName>
+				<label>建筑规划</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Work</defName>
+				<label>工作</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Kiiro_Merchant</defName>
+				<label>商户</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>CL_ModuleCenter</defName>
+				<label>模块中心</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Schedule</defName>
+				<label>管制</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>AM_LevelSchedule</defName>
+				<label>楼层管制</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Assign</defName>
+				<label>方案</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Animals</defName>
+				<label>动物</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Mechs</defName>
+				<label>机械族</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Ancot_DronesTab</defName>
+				<label>无人机</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Wildlife</defName>
+				<label>野生动物</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>OffsetManager</defName>
+				<iconPath>UI/MainTab</iconPath>
+				<label>Animation Manager</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Research</defName>
+				<label>研究</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Quests</defName>
+				<label>任务</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>World</defName>
+				<label>世界</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Sim_BusinessManager</defName>
+				<iconPath>GD/UI/Icons/MainButton/treasure-chest</iconPath>
+				<label>经商管理</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>ROBTRG_Hotel</defName>
+				<iconPath>UI/RJWHotel/HotelTab</iconPath>
+				<label>酒店</label>
+				<minimized>True</minimized>
+				<hideLabel>True</hideLabel>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>RJW_MainButton</defName>
+				<iconPath>RJW_Tab</iconPath>
+				<label>RJW</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>History</defName>
+				<iconPath>UI/Buttons/MainButtons/History</iconPath>
+				<label>历史</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Factions</defName>
+				<iconPath>UI/Buttons/MainButtons/Factions</iconPath>
+				<label>派系</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Ideos</defName>
+				<iconPath>UI/Buttons/MainButtons/Ideoligions</iconPath>
+				<label>文化</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>CQF_QuestBook</defName>
+				<iconPath>UI/QuestEditor/LoadQuest</iconPath>
+				<label>任务书</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>NLFaceSelectTab</defName>
+				<iconPath>UI/NL_FA_MainTab</iconPath>
+				<label>NLFaceSelectTab</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>UAT_MainButton</defName>
+				<iconPath>Mint/UI/Parka</iconPath>
+				<label>服饰调整</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>UWT_MainButton</defName>
+				<iconPath>GD/UI/Icons/MainButton/shield</iconPath>
+				<label>武器调整</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>MintBillMenu</defName>
+				<iconPath>Mint/UI/Global_bills</iconPath>
+				<label>新潮清单界面</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>MintGearMenu</defName>
+				<iconPath>Mint/UI/Parka</iconPath>
+				<label>新潮装备界面</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>HatHairControlSettings</defName>
+				<iconPath>UI/MainButtons/HatSettings</iconPath>
+				<label>帽子与发型设置</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>XmlExtensions_MainButton_ModSettings</defName>
+				<iconPath>XmlExtensions/UI/Buttons/MainButtons/MainButton_ModSettings</iconPath>
+				<label>Mod设置</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>HotkeyEditor</defName>
+				<iconPath>beditoricon</iconPath>
+				<label>Character</label>
+				<minimized>True</minimized>
+				<forceShow>True</forceShow>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Menu</defName>
+				<iconPath>UI/Buttons/MainButtons/Menu</iconPath>
+				<label>菜单</label>
+				<minimized>True</minimized>
+			</li>
+		</bottom>
+		<lastVersion>1.2.9447.18333</lastVersion>
+		<barsHeight>30.7091351</barsHeight>
+	</ModSettings>
+</SettingsBlock>

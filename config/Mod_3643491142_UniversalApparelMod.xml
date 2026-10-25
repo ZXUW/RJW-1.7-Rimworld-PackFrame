@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="UniversalApparelTweaker.UniversalApparelSettings">
+		<raceSettings>
+			<keys>
+				<li>Ycha</li>
+				<li>Human</li>
+				<li>CreepJoiner</li>
+				<li>Ycha_Weak</li>
+				<li>Corpse_Human</li>
+				<li>UnnaturalCorpse_Human</li>
+				<li>Corpse_Ycha</li>
+				<li>Corpse_Ycha_Weak</li>
+			</keys>
+			<values>
+				<li>
+					<bodyTypeSettings>
+						<keys>
+							<li>Thin</li>
+						</keys>
+						<values>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+						</values>
+					</bodyTypeSettings>
+				</li>
+				<li>
+					<bodyTypeSettings>
+						<keys>
+							<li>Baby</li>
+							<li>Child</li>
+							<li>Male</li>
+							<li>Female</li>
+							<li>Thin</li>
+							<li>Hulk</li>
+							<li>Fat</li>
+						</keys>
+						<values>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+						</values>
+					</bodyTypeSettings>
+				</li>
+				<li>
+					<bodyTypeSettings>
+						<keys>
+							<li>Baby</li>
+							<li>Child</li>
+							<li>Male</li>
+							<li>Female</li>
+							<li>Thin</li>
+							<li>Hulk</li>
+							<li>Fat</li>
+						</keys>
+						<values>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+						</values>
+					</bodyTypeSettings>
+				</li>
+				<li>
+					<bodyTypeSettings>
+						<keys>
+							<li>Thin</li>
+						</keys>
+						<values>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+						</values>
+					</bodyTypeSettings>
+				</li>
+				<li>
+					<bodyTypeSettings>
+						<keys>
+							<li>Male</li>
+							<li>Female</li>
+							<li>Thin</li>
+							<li>Hulk</li>
+							<li>Fat</li>
+							<li>Baby</li>
+							<li>Child</li>
+						</keys>
+						<values>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+						</values>
+					</bodyTypeSettings>
+				</li>
+				<li>
+					<bodyTypeSettings>
+						<keys>
+							<li>Male</li>
+							<li>Female</li>
+							<li>Thin</li>
+							<li>Hulk</li>
+							<li>Fat</li>
+							<li>Baby</li>
+							<li>Child</li>
+						</keys>
+						<values>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+						</values>
+					</bodyTypeSettings>
+				</li>
+				<li>
+					<bodyTypeSettings>
+						<keys>
+							<li>Male</li>
+							<li>Female</li>
+							<li>Thin</li>
+							<li>Hulk</li>
+							<li>Fat</li>
+							<li>Baby</li>
+							<li>Child</li>
+						</keys>
+						<values>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+						</values>
+					</bodyTypeSettings>
+				</li>
+				<li>
+					<bodyTypeSettings>
+						<keys>
+							<li>Male</li>
+							<li>Female</li>
+							<li>Thin</li>
+							<li>Hulk</li>
+							<li>Fat</li>
+							<li>Baby</li>
+							<li>Child</li>
+						</keys>
+						<values>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+							<li>
+								<apparelSettings>
+									<keys />
+									<values />
+								</apparelSettings>
+							</li>
+						</values>
+					</bodyTypeSettings>
+				</li>
+			</values>
+		</raceSettings>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ZXSimpleHeadScale.ZXSimpleHeadScaleSettings">
+		<headScaleMultiplier>0.75</headScaleMultiplier>
+		<headOffsetX>-0.0299999993</headOffsetX>
+		<headOffsetZ>-0.0480000004</headOffsetZ>
+		<thinScaleCorrection>-0.150000006</thinScaleCorrection>
+		<thinOffsetZCorrection>-0.0350000001</thinOffsetZCorrection>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SimManagementLib.SimManagementLibSettings">
+		<businessManagerPageOrder />
+		<businessManagerHiddenPages />
+		<announcementReadRecords>
+			<li>
+				<readKey>local:RSMF_Announcement_RestaurantRelease:once</readKey>
+				<announcementCode>RSMF_Announcement_RestaurantRelease</announcementCode>
+				<title>边缘餐厅正式发布 · RimSMF:Restaurant</title>
+				<body>把殖民地的小店变成一家餐厅：自定义菜单和价格，安排厨师备餐、服务员送餐，让顾客入座点餐、用餐并结账。也可以布置传送带，经营自助餐厅。
+
+这是边缘模拟经营框架的官方扩展，需要启用框架。点击下方按钮前往 Steam 创意工坊订阅。</body>
+				<publishedAt>2026-09-27T00:00:00+08:00</publishedAt>
+				<readAt>2026-10-20T21:12:32.0033140Z</readAt>
+			</li>
+		</announcementReadRecords>
+		<announcementReadKeys>
+			<li>local:RSMF_Announcement_RestaurantRelease:once</li>
+		</announcementReadKeys>
+		<reviewUserPrompt>只返回 JSON 对象，字段为 nickname、stars、reviewText、upvoteReviewId、downvoteReviewId、replyToReviewId、replyText、replyStance、tags。nickname 像私用账号，参考稳定身份气质，不要被本次购物好坏带偏。stars 是 1 到 5 的整数，按顾客主观心情给，不把 3 星当默认值。reviewText 35 到 150 个中文字符，像论坛用户刚离店随手发的一句短帖；先冒出一句人话，再自然带出本次体验。不要写成收据、质检单、字段摘要或完整小作文；不要用“整体来说、本次体验、这家店、服务方面、环境方面、性价比、作为顾客、购买过程、结账过程”这类开头。商品、价格、服务、环境、健康、心情只是背景，不必都出现；资料普通或为空时直接忽略。短期口碑可以用来点赞、点踩或接话，但不要压过本次体验。tags 最多 4 个短标签，必须来自 reviewText 真正写到的情绪、用途、槽点或互动。</reviewUserPrompt>
+	</ModSettings>
+</SettingsBlock>

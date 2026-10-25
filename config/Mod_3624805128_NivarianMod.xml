@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Nivarian.NivarianSettings">
+		<modDataHashSet>
+			<li>hpuUEfQO</li>
+			<li>kZQpvR3w</li>
+			<li>NivarianUpdateLog:Nivarian_UpdateLog_2026_10_09</li>
+			<li>NivarianUpdateLog:Nivarian_UpdateLog_2026_10_21</li>
+		</modDataHashSet>
+		<aidIncidentDisabled>
+			<keys />
+			<values />
+		</aidIncidentDisabled>
+		<aidIncidentRequireAlliance>
+			<keys />
+			<values />
+		</aidIncidentRequireAlliance>
+	</ModSettings>
+</SettingsBlock>

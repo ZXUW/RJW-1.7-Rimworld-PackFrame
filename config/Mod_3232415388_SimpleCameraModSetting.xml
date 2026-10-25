@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SimpleCameraSetting.ModSetting">
+		<sizeRange>0.5~200</sizeRange>
+		<silhouetteDistance>54.9776649</silhouetteDistance>
+		<displayDistance>14.3225803</displayDistance>
+		<followCameraKey>
+			<label>Follow Camera Key</label>
+			<key>KeypadEnter</key>
+		</followCameraKey>
+		<moveSpeedScale_1>0.300000012</moveSpeedScale_1>
+		<moveSpeedScale_3>0.400001675</moveSpeedScale_3>
+		<moveSpeedScale_5>0.800000072</moveSpeedScale_5>
+		<moveSpeedScale_10>1.60000205</moveSpeedScale_10>
+		<moveSpeedScale_20>2.30000043</moveSpeedScale_20>
+		<moveSpeedScale_40>3.70000076</moveSpeedScale_40>
+		<moveSpeedScale_60>5.39999914</moveSpeedScale_60>
+		<moveSpeedScale_100>6.80000019</moveSpeedScale_100>
+		<moveSpeedScale_200>7</moveSpeedScale_200>
+		<zoomSpeedScale_40>8.62431717</zoomSpeedScale_40>
+		<zoomSpeedScale_60>8.62431717</zoomSpeedScale_60>
+		<zoomSpeedScale_100>8.62431717</zoomSpeedScale_100>
+		<zoomSpeedScale_200>8.62431717</zoomSpeedScale_200>
+	</ModSettings>
+</SettingsBlock>

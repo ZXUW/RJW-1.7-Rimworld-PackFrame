@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="HaulersDream.HaulersDreamSettings">
+		<itemUnloadRules />
+		<autoStripMode>Off</autoStripMode>
+		<taintedSmeltablePolicy>Destroy</taintedSmeltablePolicy>
+		<taintedNonSmeltablePolicy>Destroy</taintedNonSmeltablePolicy>
+		<storageBuildingFilter>
+			<denied />
+			<allowed />
+		</storageBuildingFilter>
+		<routePrefsByDef>
+			<keys>
+				<li>Blueprint_Bed</li>
+				<li>Frame_ASF_VeryBigShelf</li>
+			</keys>
+			<values>
+				<li />
+				<li />
+			</values>
+		</routePrefsByDef>
+		<rememberedRoutesByDef>
+			<keys />
+			<values />
+		</rememberedRoutesByDef>
+		<rememberedSowRoutesByDef>
+			<keys />
+			<values />
+		</rememberedSowRoutesByDef>
+		<rememberedRemoveFloorRoutesByDef>
+			<keys />
+			<values />
+		</rememberedRemoveFloorRoutesByDef>
+		<settingsSchemaVersion>1</settingsSchemaVersion>
+		<savedProfiles>
+			<li>
+				<name>HR01</name>
+				<snapshot>
+					<itemUnloadRules />
+					<autoStripMode>Off</autoStripMode>
+					<taintedSmeltablePolicy>Destroy</taintedSmeltablePolicy>
+					<taintedNonSmeltablePolicy>Destroy</taintedNonSmeltablePolicy>
+					<storageBuildingFilter>
+						<denied />
+						<allowed />
+					</storageBuildingFilter>
+					<routePrefsByDef>
+						<keys />
+						<values />
+					</routePrefsByDef>
+					<rememberedRoutesByDef>
+						<keys />
+						<values />
+					</rememberedRoutesByDef>
+					<rememberedSowRoutesByDef>
+						<keys />
+						<values />
+					</rememberedSowRoutesByDef>
+					<rememberedRemoveFloorRoutesByDef>
+						<keys />
+						<values />
+					</rememberedRemoveFloorRoutesByDef>
+					<settingsSchemaVersion>1</settingsSchemaVersion>
+				</snapshot>
+			</li>
+		</savedProfiles>
+		<activeProfileName>HR01</activeProfileName>
+		<reporterId>60f7b07c1d77480589be9f696b20e32a</reporterId>
+		<notifySeenComment>
+			<keys />
+			<values />
+		</notifySeenComment>
+		<notifyDismissed>
+			<keys />
+			<values />
+		</notifyDismissed>
+	</ModSettings>
+</SettingsBlock>

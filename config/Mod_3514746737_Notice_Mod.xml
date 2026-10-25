@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Notice.Notice_Settings">
+		<noticeHistory>
+			<keys>
+				<li>Epona_Telegraph</li>
+				<li>Epona_Telegraph_202609</li>
+				<li>Epona_Telegraph_202610</li>
+				<li>Epona_Telegraph_20261010</li>
+				<li>Epona_Telegraph_20261016</li>
+			</keys>
+			<values>
+				<li>20261023</li>
+				<li>20260900</li>
+				<li>20261004</li>
+				<li>20261010</li>
+				<li>20261016</li>
+			</values>
+		</noticeHistory>
+	</ModSettings>
+</SettingsBlock>
