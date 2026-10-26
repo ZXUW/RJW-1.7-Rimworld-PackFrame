@@ -1,7 +1,7 @@
 {
-  "revision": 1792993754558,
+  "revision": 1792997549533,
   "version": "2026.10.25.081009",
-  "changelog": "\u53D1\u5E03",
+  "changelog": "\u66F4\u65B0",
   "schemaVersion": 1,
   "id": "rjw-1-7",
   "name": "\u591A\u79CD\u65CFRJW [1.7]",
@@ -15,7 +15,7 @@
   "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3826784509",
   "repo": "ZXUW/RJW-1.7-Rimworld-PackFrame",
   "ref": "main",
-  "modsArchive": "https://packframe-rimworld-ali.oss-cn-guangzhou.aliyuncs.com/%E5%A4%9A%E7%A7%8D%E6%97%8FRJW%20%5B1.7%5D.zip",
+  "modsArchive": "mods.7z",
   "modsArchiveR2": "https://pub-3888178a2c7d45d58686f1e602e8ce0f.r2.dev/%E5%A4%9A%E7%A7%8D%E6%97%8FRJW%20%5B1.7%5D.zip",
   "configFiles": [
     "ModsConfig.xml",
@@ -442,12 +442,6 @@
     },
     {
       "source": "local",
-      "name": "[ZA] Mipmap Patch",
-      "path": "mods/[ZA] Mipmap Patch",
-      "packageId": "zx.mipmap.patch"
-    },
-    {
-      "source": "local",
       "name": "[ZA] Apparel",
       "path": "mods/[ZA] Apparel",
       "packageId": "zx.costumes"
@@ -457,12 +451,6 @@
       "name": "[ZA] NL FA Extended",
       "path": "mods/[ZA] NL FA Extended",
       "packageId": "zx.nlfa.extended"
-    },
-    {
-      "source": "local",
-      "name": "[ZA] Simple Head Scale",
-      "path": "mods/[ZA] Simple Head Scale",
-      "packageId": "zx.simple.headscale"
     }
   ],
   "packageIds": [

@@ -6,5 +6,54 @@
 		<headOffsetZ>-0.0480000004</headOffsetZ>
 		<thinScaleCorrection>-0.150000006</thinScaleCorrection>
 		<thinOffsetZCorrection>-0.0350000001</thinOffsetZCorrection>
+		<presetScale>0.75</presetScale>
+		<presetOffsetX>-0.0299999993</presetOffsetX>
+		<presetOffsetZ>-0.0480000004</presetOffsetZ>
+		<raceData>
+			<keys>
+				<li>Rabbie</li>
+				<li>Corpse_Venarium_Race</li>
+				<li>MNRace</li>
+				<li>Alien_Moyo</li>
+				<li>Kiiro_Race</li>
+				<li>Ratkin</li>
+				<li>Alien_Miho</li>
+			</keys>
+			<values>
+				<li>
+					<hasCustom>True</hasCustom>
+					<scale>0.922920942</scale>
+				</li>
+				<li>
+					<hasCustom>True</hasCustom>
+					<scale>0.968784511</scale>
+				</li>
+				<li>
+					<hasCustom>True</hasCustom>
+					<scale>1.06960905</scale>
+					<offsetX>0.0177534074</offsetX>
+					<offsetZ>-0.0162742883</offsetZ>
+				</li>
+				<li>
+					<hasCustom>True</hasCustom>
+					<offsetX>-0.0073723346</offsetX>
+				</li>
+				<li>
+					<hasCustom>True</hasCustom>
+					<offsetX>0.0305826794</offsetX>
+					<presetScale>1.09139514</presetScale>
+				</li>
+				<li>
+					<hasCustom>True</hasCustom>
+				</li>
+				<li>
+					<hasCustom>True</hasCustom>
+					<scale>1.02852297</scale>
+					<offsetZ>0.0222220402</offsetZ>
+					<presetScale>1.02852297</presetScale>
+					<presetOffsetZ>0.0222220402</presetOffsetZ>
+				</li>
+			</values>
+		</raceData>
 	</ModSettings>
 </SettingsBlock>

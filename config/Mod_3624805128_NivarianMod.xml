@@ -15,5 +15,7 @@
 			<keys />
 			<values />
 		</aidIncidentRequireAlliance>
+		<healthBarHeightFactor>0.0449999981</healthBarHeightFactor>
+		<enableCustomMainMenuBackground>False</enableCustomMainMenuBackground>
 	</ModSettings>
 </SettingsBlock>

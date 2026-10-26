@@ -3,10 +3,10 @@
 	<ModSettings Class="SimpleCameraSetting.ModSetting">
 		<sizeRange>0.5~200</sizeRange>
 		<silhouetteDistance>54.9776649</silhouetteDistance>
-		<displayDistance>14.3225803</displayDistance>
+		<displayDistance>1.58560801</displayDistance>
 		<followCameraKey>
 			<label>Follow Camera Key</label>
-			<key>KeypadEnter</key>
+			<key>Backspace</key>
 		</followCameraKey>
 		<moveSpeedScale_1>0.300000012</moveSpeedScale_1>
 		<moveSpeedScale_3>0.400001675</moveSpeedScale_3>

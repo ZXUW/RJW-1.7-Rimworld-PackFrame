@@ -19,7 +19,7 @@
   <screenShakeIntensity>1</screenShakeIntensity>
   <textureCompression>True</textureCompression>
   <showRealtimeClock>True</showRealtimeClock>
-  <disableTinyText>True</disableTinyText>
+  <disableTinyText>False</disableTinyText>
   <animalNameMode>None</animalNameMode>
   <mechNameMode>WhileDrafted</mechNameMode>
   <backgroundExpansionId>ludeon.rimworld</backgroundExpansionId>

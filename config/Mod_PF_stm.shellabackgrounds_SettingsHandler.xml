@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="ShellaBackgrounds.ShellaBackgroundSettings">
-		<CurrentBackground>Nivarian_ShellaBG</CurrentBackground>
+		<CurrentBackground />
 		<ImagePath>
 			<keys>
 				<li>Shella_Odyssey</li>

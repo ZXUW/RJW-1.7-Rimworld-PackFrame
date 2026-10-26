@@ -63,7 +63,7 @@
 				<li>ASEL.ASELModExtension</li>
 			</values>
 		</loadedTypesByFullNameSinceLastSession>
-		<typeCacheAssemblyFingerprint>34cc7c46a795647afc46f5fa5b02ca8d62ea870cb5a3746363e93fcb00cc1537</typeCacheAssemblyFingerprint>
+		<typeCacheAssemblyFingerprint>c486209271d5f11e321567839c686af7ca631e12f76c138a3a589450ce4ed64a</typeCacheAssemblyFingerprint>
 		<modsInLastSession>
 			<li>brrainz.harmony</li>
 			<li>ilyvion.loadingprogress</li>
@@ -84,6 +84,7 @@
 			<li>zephyr.compacthediffszh</li>
 			<li>imranfish.xmlextensions</li>
 			<li>asavikle.xml.extensions.cn</li>
+			<li>owlchemist.toggleablereadouts</li>
 			<li>erdelf.humanoidalienraces</li>
 			<li>rwzh.chinesepack.humanoidalienraces</li>
 			<li>nals.realisticbody</li>
@@ -328,7 +329,6 @@
 			<li>yukiyuki.kara</li>
 			<li>chinesepack.yukiyuki.kara</li>
 			<li>rim.job.world</li>
-			<li>xiaoycha.oc</li>
 			<li>lordfelix.hathaircontrol</li>
 			<li>vegapnk.cumpilation</li>
 			<li>c0ffee.rimworld.animations</li>
