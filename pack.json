@@ -15,7 +15,7 @@
   "workshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3826784509",
   "repo": "ZXUW/RJW-1.7-Rimworld-PackFrame",
   "ref": "main",
-  "modsArchive": null,
+  "modsArchive": "https://packframe-rimworld-ali.oss-cn-guangzhou.aliyuncs.com/%E5%A4%9A%E7%A7%8D%E6%97%8FRJW%20%5B1.7%5D.zip",
   "modsArchiveR2": "https://pub-3888178a2c7d45d58686f1e602e8ce0f.r2.dev/%E5%A4%9A%E7%A7%8D%E6%97%8FRJW%20%5B1.7%5D.zip",
   "configFiles": [
     "ModsConfig.xml",
